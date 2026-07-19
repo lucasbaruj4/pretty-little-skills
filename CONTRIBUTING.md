@@ -2,9 +2,9 @@
 
 ## Adding a skill
 
-1. Copy `plugins/example-skill` to `plugins/<your-skill-name>` and rename the
-   nested `skills/example-skill` directory to match.
-2. Fill in `plugins/<your-skill-name>/.claude-plugin/plugin.json`.
+1. Create `plugins/<your-skill-name>/skills/<your-skill-name>/SKILL.md`.
+2. Add `plugins/<your-skill-name>/.claude-plugin/plugin.json` with the
+   plugin's name, version, description, and author.
 3. Write `SKILL.md` with a specific, trigger-worthy `description` in the
    frontmatter and clear instructions in the body.
 4. Register the plugin in the root `.claude-plugin/marketplace.json`.

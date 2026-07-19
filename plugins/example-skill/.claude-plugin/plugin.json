@@ -1,9 +1,0 @@
-{
-  "name": "example-skill",
-  "version": "0.1.0",
-  "description": "Template skill demonstrating the standard SKILL.md layout.",
-  "author": {
-    "name": "Lucas Baruja",
-    "email": "barujalucas0@gmail.com"
-  }
-}
