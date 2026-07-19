@@ -14,6 +14,11 @@
       "name": "step-explainer",
       "source": "./plugins/step-explainer",
       "description": "Builds an interactive HTML artifact that teaches a concept by simulating one concrete instance of it."
+    },
+    {
+      "name": "make-it-fun",
+      "source": "./plugins/make-it-fun",
+      "description": "Reframes a stressful upcoming task as a game instead of a life-or-death event, to defuse anxiety."
     }
   ]
 }

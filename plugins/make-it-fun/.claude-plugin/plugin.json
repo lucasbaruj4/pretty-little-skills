@@ -1,0 +1,9 @@
+{
+  "name": "make-it-fun",
+  "version": "0.1.0",
+  "description": "Reframes a stressful upcoming task as a game instead of a life-or-death event, to defuse anxiety.",
+  "author": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  }
+}
