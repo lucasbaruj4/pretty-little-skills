@@ -1,0 +1,14 @@
+{
+  "name": "pretty-little-skills",
+  "owner": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "example-skill",
+      "source": "./plugins/example-skill",
+      "description": "Template skill demonstrating the standard SKILL.md layout — copy this to start a new skill."
+    }
+  ]
+}
