@@ -1,8 +1,6 @@
 # Pretty Little Skills
 
-Some of these are for work, some are for personal life stuff — take a look and be open minded.
-
-A collection of agent skills — for wherever you want to put them.
+A collection of agent skills — for wherever you want to put them. Some of these are for work, some are for personal life stuff — take a look and be open minded.
 
 Each skill lives in `plugins/<skill-name>/skills/<skill-name>/SKILL.md`.
 That layout also works as a Claude Code plugin marketplace, but the skills
