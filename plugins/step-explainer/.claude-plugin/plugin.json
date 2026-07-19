@@ -1,0 +1,9 @@
+{
+  "name": "step-explainer",
+  "version": "0.1.0",
+  "description": "Builds an interactive HTML artifact that teaches a concept by simulating one concrete instance of it.",
+  "author": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  }
+}

@@ -4,5 +4,16 @@
     "name": "Lucas Baruja",
     "email": "barujalucas0@gmail.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "in-english",
+      "source": "./plugins/in-english",
+      "description": "Translates jargon-heavy tech/AI language into plain terms."
+    },
+    {
+      "name": "step-explainer",
+      "source": "./plugins/step-explainer",
+      "description": "Builds an interactive HTML artifact that teaches a concept by simulating one concrete instance of it."
+    }
+  ]
 }

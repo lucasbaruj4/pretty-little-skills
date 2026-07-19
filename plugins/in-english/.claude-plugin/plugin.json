@@ -1,0 +1,9 @@
+{
+  "name": "in-english",
+  "version": "0.1.0",
+  "description": "Translates jargon-heavy tech/AI language into plain terms.",
+  "author": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  }
+}
