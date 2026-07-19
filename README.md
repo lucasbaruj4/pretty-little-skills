@@ -6,7 +6,7 @@ Each skill lives in `plugins/<skill-name>/skills/<skill-name>/SKILL.md`.
 That layout also works as a Claude Code plugin marketplace, but the skills
 themselves are plain markdown and portable anywhere skills are supported.
 
-## Skills I use from others
+## Pretty little skills from other people I use daily
 
 Not everything worth using belongs to me. These aren't hosted here — follow
 the link to grab them straight from the source.
