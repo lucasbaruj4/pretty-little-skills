@@ -1,0 +1,9 @@
+{
+  "name": "handover-webchat",
+  "version": "0.1.0",
+  "description": "Packages the current web chat conversation into a portable handover kit so a new chat can pick the work up cold.",
+  "author": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  }
+}

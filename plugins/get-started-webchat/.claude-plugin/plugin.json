@@ -1,0 +1,9 @@
+{
+  "name": "get-started-webchat",
+  "version": "0.1.0",
+  "description": "Cold-starts a new web chat from a handover kit, reading it in the right order and getting straight back to work.",
+  "author": {
+    "name": "Lucas Baruja",
+    "email": "barujalucas0@gmail.com"
+  }
+}

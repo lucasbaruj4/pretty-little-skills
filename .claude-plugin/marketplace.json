@@ -19,6 +19,16 @@
       "name": "make-it-fun",
       "source": "./plugins/make-it-fun",
       "description": "Reframes a stressful upcoming task as a game instead of a life-or-death event, to defuse anxiety."
+    },
+    {
+      "name": "handover-webchat",
+      "source": "./plugins/handover-webchat",
+      "description": "Packages the current web chat conversation into a portable handover kit so a new chat can pick the work up cold."
+    },
+    {
+      "name": "get-started-webchat",
+      "source": "./plugins/get-started-webchat",
+      "description": "Cold-starts a new web chat from a handover kit, reading it in the right order and getting straight back to work."
     }
   ]
 }
