@@ -8,8 +8,5 @@ themselves are plain markdown and portable anywhere skills are supported.
 
 ## Pretty little skills from other people I use daily
 
-Not everything worth using belongs to me. These aren't hosted here — follow
-the link to grab them straight from the source.
-
 - [grilling](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling) — by [Matt Pocock](https://github.com/mattpocock)
 - [writing-great-skills](https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-great-skills) — by [Matt Pocock](https://github.com/mattpocock)
